@@ -1,4 +1,4 @@
-﻿# Build Chat App with React, Socket.io, Node.js, Redux-Toolkit, MongoDB (2024)
+﻿# Build Chat App with React, Socket.io, Node.js, Redux-Toolkit, MongoDB (2025)
 
 ## Introduction
 This project is a real-time chat application built using modern web technologies, including:
